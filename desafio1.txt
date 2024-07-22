@@ -1,0 +1,8 @@
+## Desafio 1
+
+O primeiro desafio se trata de reunir informações sobre 25 Shoppings a partir de uma planilha em *Excel* com mais de **100.000** linhas e enviar o relatório de cada Shopping para o email de seu respectivo gerente.
+
+Como todo esse processo se feito de forma manual seria extremamente repetitivo e cansativo, este desafio será resolvido com uma simples **Automação de Processos**.
+
+Bibliotecas e pacotes utilizados: *pandas*, *smtplib*, *email*.
+Leia detalhadamente sobre esse desafio [aqui](https://github.com/GabrielReira/Data-Science-Challenges/tree/main/Desafio%201).
